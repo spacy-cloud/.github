@@ -4,7 +4,7 @@ Web services, automation and game servers on a self-managed server. No ads, no t
 
 ## Projects
 
-- **[self-improvement](https://github.com/spacy-cloud/self-improvement)**: local-first self-improvement app for Android (Flutter). All data stays on the device, no internet permission. [Pre-release v0.1.0](https://github.com/spacy-cloud/self-improvement/releases/tag/v0.1.0) · [Project page](https://spacy.cloud/self-improvement)
+- **[self-improvement](https://github.com/spacy-cloud/self-improvement)**: local-first self-improvement app for Android (Flutter). All data stays on the device, no internet permission. [Pre-release v0.2.0](https://github.com/spacy-cloud/self-improvement/releases/tag/v0.2.0) · [Project page](https://spacy.cloud/self-improvement)
 
 ## Services
 
